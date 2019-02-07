@@ -4,6 +4,8 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Mono.Android.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\mscorlib.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Plugin.ContactService.dll
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Plugin.CurrentActivity.dll
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Plugin.Permissions.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\System.Core.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\System.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\System.Xml.dll

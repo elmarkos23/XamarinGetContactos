@@ -2,8 +2,23 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:XamarinGetContactos"
-             x:Class="XamarinGetContactos.MainPage">
-    <StackLayout>
-        <ListView x:Name="lvContactos"/>
+             x:Class="XamarinGetContactos.MainPage"
+             Title="Get Contactos">
+    <StackLayout Padding="10">
+        <Button Text="Permisos Contactos" Clicked="Button_Clicked_1"/>
+        <Button Text="Cargar" Clicked="Button_Clicked"/>
+        <ListView x:Name="lvContactos">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical">
+                            <Label Text="{Binding Number, StringFormat='Numero: {0}'}"/>
+                            <Label Text="{Binding Name, StringFormat='Nombre: {0}'}"/>
+                            <Label Text="{Binding Email, StringFormat='Email: {0}'}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 </ContentPage>

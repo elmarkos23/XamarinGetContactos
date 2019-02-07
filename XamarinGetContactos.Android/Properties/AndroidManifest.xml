@@ -3,5 +3,5 @@
 	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
 	<uses-permission android:name="android.permission.READ_CONTACTS" />
 	<uses-permission android:name="android.permission.WRITE_CONTACTS" />
-	<application android:label="XamarinGetContactos.Android"></application>
+	<application android:label="Xamarin GetContatos"></application>
 </manifest>
