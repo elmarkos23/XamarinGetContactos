@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\bin\Debug\netstandard2.0\XamarinGetContactos.deps.json
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\bin\Debug\netstandard2.0\XamarinGetContactos.dll
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\bin\Debug\netstandard2.0\XamarinGetContactos.pdb
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.dll
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.pdb
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.csprojAssemblyReference.cache
