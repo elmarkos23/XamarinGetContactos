@@ -55,7 +55,6 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\System.Web.Services.pdb
-C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\XamarinGetContactos.Android.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -78,6 +77,7 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
@@ -102,6 +102,4 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\android\assets\XamarinGetContactos.Android.pdb
-C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\bin\Debug\netstandard2.0\XamarinGetContactos.dll
-C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\bin\Debug\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.Android\obj\Debug\81\linksrc\XamarinGetContactos.dll.mdb

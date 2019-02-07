@@ -8,5 +8,4 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\bin\Debug\netstandard2.0\XamarinGetContactos.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.pdb
-C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamarinGetContactos.csprojAssemblyReference.cache
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos\obj\Debug\netstandard2.0\XamlC.stamp

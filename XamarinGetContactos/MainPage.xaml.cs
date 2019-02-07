@@ -38,28 +38,40 @@ namespace XamarinGetContactos
             try
             {
                 var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Contacts);
+
+                    status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Contacts);
+
+
                 if (status != PermissionStatus.Granted)
                 {
                     if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Contacts))
                     {
-                        await DisplayAlert("Need Camera", "Gunna need", "OK");
+                        await DisplayAlert("Need location", "Gunna need that location", "OK");
                     }
 
-                    var results = await CrossPermissions.Current.RequestPermissionsAsync(Permission.Contacts);
-                    //Best practice to always check that the key exists
-                    if (results.ContainsKey(Permission.Contacts))
-                        status = results[Permission.Contacts];
+                    var results = await CrossPermissions.Current.RequestPermissionsAsync(new[] { Permission.Contacts });
+                    status = results[Permission.Contacts];
                 }
 
+                if (status == PermissionStatus.Granted)
+                {
+                    await DisplayAlert("Mensaje","Permiso OK","OK");
+                }
                 else if (status != PermissionStatus.Unknown)
                 {
-                    await DisplayAlert("Camera Denied", "Can not continue, try again.", "OK");
+                    await DisplayAlert("Location Denied", "Can not continue, try again.", "OK");
                 }
+
+                //solicitar permiso
+                status = (await CrossPermissions.Current.RequestPermissionsAsync(Permission.Contacts))[Permission.Contacts];
+                
+                await DisplayAlert("Results", status.ToString(), "OK");
+
             }
             catch (Exception ex)
             {
 
-                return;
+                await DisplayAlert("Mensaje", ex.Message.ToString(), "OK");
             }
         }
 
@@ -67,5 +79,6 @@ namespace XamarinGetContactos
         {
            await GetLocationPermissionAsync();
         }
+        
     }
 }
