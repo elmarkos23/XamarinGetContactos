@@ -7,6 +7,8 @@
     <StackLayout Padding="10">
         <Button Text="Permisos Contactos" Clicked="Button_Clicked_1"/>
         <Button Text="Cargar" Clicked="Button_Clicked"/>
+        <ScrollView Orientation="Vertical">
+        
         <ListView x:Name="lvContactos">
             <ListView.ItemTemplate>
                 <DataTemplate>
@@ -20,5 +22,6 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+        </ScrollView>
     </StackLayout>
 </ContentPage>

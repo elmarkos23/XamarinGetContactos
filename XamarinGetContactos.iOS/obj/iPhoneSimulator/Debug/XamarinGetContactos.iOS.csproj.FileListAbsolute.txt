@@ -1,5 +1,6 @@
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\XamarinGetContactos.iOS.exe
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\XamarinGetContactos.iOS.pdb
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
@@ -44,6 +45,7 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Plugin.ContactService.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\XamarinGetContactos.dll
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\XamarinGetContactos.pdb
+C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\XamarinGetContactos.dll.mdb
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -56,4 +58,3 @@ C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinG
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\XamarinGetContactos.iOS.csproj.CopyComplete
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\XamarinGetContactos.iOS.exe
 C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\obj\iPhoneSimulator\Debug\XamarinGetContactos.iOS.pdb
-C:\Users\admin\Documents\GitHub\XamarinGetContactos\XamarinGetContactos\XamarinGetContactos.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll

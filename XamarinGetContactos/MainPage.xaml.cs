@@ -15,7 +15,9 @@ namespace XamarinGetContactos
         public MainPage()
         {
             InitializeComponent();
-           
+            valPermiso();
+
+
         }
         async Task GetContacs()
         {
@@ -42,16 +44,16 @@ namespace XamarinGetContactos
                     status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Contacts);
 
 
-                if (status != PermissionStatus.Granted)
-                {
-                    if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Contacts))
-                    {
-                        await DisplayAlert("Need location", "Gunna need that location", "OK");
-                    }
+                //if (status != PermissionStatus.Granted)
+                //{
+                //    if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Contacts))
+                //    {
+                //        await DisplayAlert("Need location", "Gunna need that location", "OK");
+                //    }
 
-                    var results = await CrossPermissions.Current.RequestPermissionsAsync(new[] { Permission.Contacts });
-                    status = results[Permission.Contacts];
-                }
+                //    var results = await CrossPermissions.Current.RequestPermissionsAsync(new[] { Permission.Contacts });
+                //    status = results[Permission.Contacts];
+                //}
 
                 if (status == PermissionStatus.Granted)
                 {
@@ -65,7 +67,7 @@ namespace XamarinGetContactos
                 //solicitar permiso
                 status = (await CrossPermissions.Current.RequestPermissionsAsync(Permission.Contacts))[Permission.Contacts];
                 
-                await DisplayAlert("Results", status.ToString(), "OK");
+               // await DisplayAlert("Results", status.ToString(), "OK");
 
             }
             catch (Exception ex)
@@ -79,6 +81,33 @@ namespace XamarinGetContactos
         {
            await GetLocationPermissionAsync();
         }
+
+        private async void valPermiso()
+        {
+            var status = await CrossPermissions.Current.CheckPermissionStatusAsync(Permission.Contacts);
+
+            if (status == PermissionStatus.Granted)
+            {
+                await GetContacs();
+            }
+            else
+            {
+                //solicitar permiso
+                status = (await CrossPermissions.Current.RequestPermissionsAsync(Permission.Contacts))[Permission.Contacts];
+                if (status == PermissionStatus.Granted)
+                {
+                    await GetContacs();
+                }
+                else
+                {
+                    await DisplayAlert("Mensaje", "No ha Permitido el acceso a sus contactos", "OK");
+                }
+
+            }
+        }
+
+
+
         
     }
 }
